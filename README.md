@@ -15,7 +15,7 @@
   **SASA POLYESTER SANAYI A.Ş - Intern**
 - Worked on: Stock Tracking System Project
 - Technologies used: SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022
-- 
+  
 ## 👤Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-sandallioglu/)
 
@@ -30,3 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gixem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
