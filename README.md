@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI1bWlodzgwOGtmMXE5Nmx0Z3lodTA4emY3Y25xaTdvam14eDJkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif"/>
 </div>
 
-## About Me
+## 📜About Me
 - 🔭 I'm a 4th-year Computer Engineering student.
 - 🌱 I’m currently learning *Machine Learning*.
 - 🌸 I’m located in Turkiye.
@@ -19,7 +19,7 @@
 ## 👤Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-sandallioglu/)
 
-## Languages and Tools
+## 📌Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
