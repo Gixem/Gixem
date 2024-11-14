@@ -5,11 +5,10 @@
 
 ## About Me
 - 🔭 I'm a 4th-year Computer Engineering student.
-- 🌱 I’m currently learning *Machine Learning*
-- 🌸 I’m located in Turkiye
+- 🌱 I’m currently learning *Machine Learning*.
+- 🌸 I’m located in Turkiye.
 - 🌍 I'm open to working remotely globally.
 - 📫 Reach me through gizem@sandallioglu.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm passionate about learning new technologies and solving problems. I enjoy coding and exploring new fields in tech!
 
 ## ✨Experience
