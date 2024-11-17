@@ -5,7 +5,7 @@
 
 ## 📜About Me
 - 🔭 I'm a 4th-year Computer Engineering student.
-- 🌱 I’m currently learning *Machine Learning*.
+- 🌱 I’m currently learning *Reinforcement Learning*.
 - 🌸 I’m located in Turkiye.
 - 🌍 I'm open to working remotely globally.
 - 📫 Reach me through gizem@sandallioglu.com
