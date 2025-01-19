@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning *Reinforcement Learning*.
 - 🌸 I’m located in Turkiye.
 - 🌍 I'm open to working globally.
-- 📫 Reach me through gizem@sandallioglu.com
+- 📫 Reach me through my email: gizem@sandallioglu.com
 - ⚡ Fun fact: I'm passionate about learning new technologies and solving problems. I enjoy coding and exploring new fields in tech!
 
 ## ✨Experience
