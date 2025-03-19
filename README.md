@@ -15,6 +15,7 @@
   **SASA POLYESTER SANAYI A.Ş - Intern**
 - Project: Stock Tracking System
 - Technologies: SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022
+  **BOSSA DENIM - Intern**
   
 ## 👤Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-sandallioglu/)
