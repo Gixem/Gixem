@@ -4,8 +4,7 @@
 </div>
 
 ## 📜About Me
-- 🔭 I'm a 4th-year Computer Engineering student.
-- 🌱 I’m currently learning *Reinforcement Learning*.
+- 🔭 I'm a newly graduated Computer Engineer.
 - 🌸 I’m located in Turkiye.
 - 🌍 I'm open to working globally.
 - 📫 Reach me through my email: gizem@sandallioglu.com
