@@ -9,15 +9,6 @@
 - 🌸 I’m located in Turkiye.
 - 🌍 I'm open to working globally.
 - 📫 Reach me through my email: gizem@sandallioglu.com
-
-## ✨Experience
-  **SASA POLYESTER SANAYI A.Ş - Intern**
-- Project: Stock Tracking System
-- Technologies: SQL Server Express 2019 & SQL Server Management Studio (SSMS) & Visual Studio Community 2022
-
-**BOSSA DENIM - Long Term Intern**
-(Ongoing)
-- Technologies: SQL Server Management Studio (SSMS) & Visual Studio Community 2022
   
 ## 👤Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-sandallioglu/)
