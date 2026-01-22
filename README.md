@@ -4,8 +4,8 @@
 </div>
 
 ## 📜About Me
-- 🔭 I'm a newly graduated Computer Engineer.
-- 🌸 I’m located in Turkiye.
+- 🔭 I'm a Computer Engineer.
+- 🌸 Located in Turkiye.
 - 🌍 I'm open to working globally.
 - 📫 Reach me through my email: gizem@sandallioglu.com
   
