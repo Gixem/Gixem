@@ -4,9 +4,9 @@
 </div>
 
 ## 📜About Me
-- 🔭 I'm a Computer Engineer.
-- 🌸 Located in Turkiye.
-- 🌍 I'm open to working globally.
+- 🔭 Computer Engineer
+- 🌸 Located in Turkiye
+- 🌍 Open to working globally
 - 📫 Reach me through my email: gizem@sandallioglu.com
   
 ## 👤Connect with me
