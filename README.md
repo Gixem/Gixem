@@ -10,7 +10,9 @@
 - 📫 Reach me through my email: gizem@sandallioglu.com
   
 ## 👤Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gizem-sandallioglu/)
+<a href="https://www.linkedin.com/in/gizem-sandallioglu/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
 
 ## 📌Languages and Tools
 <div>
