@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&size=35&pause=1000&color=FF9ECF&background=FFFFFF00&width=435&lines=G%C4%B0ZEM+SANDALLIO%C4%9ELU" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&size=35&pause=1000&color=FF9ECF&background=FFFFFF00&center=true&width=435&lines=G%C4%B0ZEM+SANDALLIO%C4%9ELU" alt="Typing SVG" /></a>
 </div>  
   <div id="header" align="center">
   <img src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif"  width="300" height="250" />
