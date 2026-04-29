@@ -7,8 +7,8 @@
 
 ## 📝 About Me
 - 💻 I'm a Software Developer with a Bachelor's degree in Computer Engineering.
-- 📍 Currently located in Turkiye.
 - 🗣️ I'm open to collaborations!
+- 🧩 Aside from coding, my hobbies are painting, tennis, reading, and journaling!
   
 ## 📧 Reach me through:
 - Email: gizem@sandallioglu.com
