@@ -1,6 +1,6 @@
 ## Hi there~ I'm Gizem👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI1bWlodzgwOGtmMXE5Nmx0Z3lodTA4emY3Y25xaTdvam14eDJkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif"  width="400" height="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI1bWlodzgwOGtmMXE5Nmx0Z3lodTA4emY3Y25xaTdvam14eDJkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif"  width="300" height="250" />
 </div>
 
 ## 📜About Me
