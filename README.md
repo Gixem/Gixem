@@ -5,18 +5,18 @@
   <img src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif"  width="300" height="250" />
 </div>
 
-## 📜About Me
-- 🔭 Computer Engineer
-- 🌸 Located in Turkiye
-- 🌍 Open to working globally
-- 📫 Reach me through my email: gizem@sandallioglu.com
+## 📝 About Me
+- 💻 I'm a Software Developer with a Bachelor's degree in Computer Engineering.
+- 📍 Currently located in Turkiye.
+- 🗣️ I'm open to collaborations!
   
-## 👤Connect with me
-<a href="https://www.linkedin.com/in/gizem-sandallioglu/">
+## 📧 Reach me through:
+- Email: gizem@sandallioglu.com
+- <a href="https://www.linkedin.com/in/gizem-sandallioglu/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 
-## 📌Languages and Tools
+## 📌 Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
