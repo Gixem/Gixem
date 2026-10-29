@@ -8,7 +8,8 @@
 ## 📝 About Me
 - 💻 I'm a Software Developer with a Bachelor's degree in Computer Engineering.
 - 🗣️ I'm open to collaborations!
-- 🧩 Aside from coding, my hobbies are painting, tennis, reading, and journaling!
+- 🧩 My Portfolio:
+https://github.com/Gixem/portfolio
   
 ## 📧 Reach me through:
 - Email: gizem@sandallioglu.com
