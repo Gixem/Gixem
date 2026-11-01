@@ -6,16 +6,18 @@
 </div>
 
 ## 📝 About Me
-- 💻 I'm a Software Developer with a Bachelor's degree in Computer Engineering.
+- 💻 I'm a Computer Engineer
 - 🗣️ I'm open to collaborations!
 - 🧩 My Portfolio:
 https://github.com/Gixem/portfolio
   
 ## 📧 Reach me through:
-- Email: gizem@sandallioglu.com
+
 - <a href="https://www.linkedin.com/in/gizem-sandallioglu/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
+
+- gizem@sandallioglu.com
 
 ## 📌 Languages and Tools
 <div>
